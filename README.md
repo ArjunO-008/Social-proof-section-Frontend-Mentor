@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/social-proof-section-frontend-mentor-COE5Q-dH0t)
-- Live Site URL: [Click here](https://your-live-site-url.com](https://arjuno-008.github.io/Social-proof-section-Frontend-Mentor/ )
+- Live Site URL: [Click here](https://arjuno-008.github.io/Social-proof-section-Frontend-Mentor/)
 
 ## Author
 - Frontend Mentor - [@ArjunO-008](https://www.frontendmentor.io/profile/ArjunO-008)
